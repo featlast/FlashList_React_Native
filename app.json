@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flashList_RN",
+    "slug": "flashList_RN",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
