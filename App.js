@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { View, FlatList, StyleSheet, SafeAreaView } from "react-native";
 import { FlashList } from "@shopify/flash-list";
-import { tweets } from "./data";
+import { tweets } from "./src/data/data";
 import TweetCard from "./src/components/TweetCard";
 
 const MyList = () => {
