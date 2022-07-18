@@ -1,4 +1,4 @@
-package com.flashlistrn.newarchitecture;
+package com.featlast.flashList_RN.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.flashlistrn.BuildConfig;
-import com.flashlistrn.newarchitecture.components.MainComponentsRegistry;
-import com.flashlistrn.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.featlast.flashList_RN.BuildConfig;
+import com.featlast.flashList_RN.newarchitecture.components.MainComponentsRegistry;
+import com.featlast.flashList_RN.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

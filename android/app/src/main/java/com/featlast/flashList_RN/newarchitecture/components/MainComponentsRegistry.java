@@ -1,4 +1,4 @@
-package com.flashlistrn.newarchitecture.components;
+package com.featlast.flashList_RN.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

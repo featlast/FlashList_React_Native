@@ -1,4 +1,4 @@
-package com.flashlistrn;
+package com.featlast.flashList_RN;
 
 import android.os.Build;
 import android.os.Bundle;

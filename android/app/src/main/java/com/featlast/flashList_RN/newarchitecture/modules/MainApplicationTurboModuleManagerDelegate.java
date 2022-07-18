@@ -1,4 +1,4 @@
-package com.flashlistrn.newarchitecture.modules;
+package com.featlast.flashList_RN.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
